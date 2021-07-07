@@ -1,9 +1,0 @@
-
-@font-face {
-    font-family: 'MyWebFont';
-    src: url('../fonts/iransans/ttf/IRANSansWeb.ttf'); /* IE9 Compat Modes */
-    src: url('../fonts/iransans/eot/IRANSansWeb.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('../fonts/iransans/woff2/IRANSansWeb.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../fonts/iransans/woff/IRANSansWeb.woff') format('woff'), /* Pretty Modern Browsers */
-         url('../fonts/iransans/ttf/IRANSansWeb.ttf')  format('truetype'), /* Safari, Android, iOS */
-  }
